@@ -10,31 +10,25 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Diffusion Stochastic Processes",
+    "Quantitative Finance",
+    "Simulation and Numerical Techniques for Partial Differential Equations",
+	"Dynamics of Complex Fluids"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Theoretical Biophysics"
+  institution = "Indian Institute of Science"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Masters of Science in Physical Chemistry"
+  institution = "Banaras Hindu University, Varanasi"
+  year = 2010
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Pinaki Bhattacharyya has done Doctoral Research in field of Theoretical Biophysics and Stochastic Processes with a number of publications in internationally peer reviewed journals. With exceptional mathematical skills and proficiency with computer programs I have cultivated keen interest in the broad area of Quantitative Finance with Python as tool for programming and data analysis. My current focus lies in Stochastic volatility and Interest rate models, developing and analyzing new financial instruments and derivative products for emerging markets, portfolio risk management, time series analysis and forecasting. My CV can be found here.
